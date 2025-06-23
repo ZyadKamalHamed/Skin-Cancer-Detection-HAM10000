@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === ML/AI Specific ===
+# Large datasets
+data/raw/
+data/processed/
+data/external/
+*.csv
+*.h5
+*.hdf5
+
+# Model files
+models/checkpoints/
+models/best_models/
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Experiment tracking
+wandb/
+mlruns/
+.neptune/
+
+# Large media files
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.dicom
+*.nii
+*.nii.gz
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
