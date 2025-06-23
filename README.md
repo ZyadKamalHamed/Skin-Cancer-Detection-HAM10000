@@ -76,7 +76,7 @@ python src/test_setup.py
 ### **Data Pipeline**
 ```bash
 # Initialize sample dataset
-python src/data/data_downloader.py
+python src/data/download.py
 ```
 
 ## 📈 **Current Progress**
