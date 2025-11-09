@@ -79,30 +79,12 @@ python src/test_setup.py
 python src/data/download.py
 ```
 
-## 📈 **Current Progress**
-
-- [x] **Project Foundation** - Professional ML structure
-- [x] **Configuration System** - Centralized parameter management
-- [x] **Data Pipeline** - HAM10000 downloader with metadata
-
-
-## 🤝 **Contributing**
-
-This project follows professional ML development practices:
-- **Version Control**: Git with semantic commits
-- **Code Quality**: PEP 8 compliance and documentation
-- **Testing**: Automated validation and CI/CD (planned)
-- **Reproducibility**: Seed control and environment management
 
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 **Acknowledgments**
-
 - **HAM10000 Dataset**: Tschandl, P., Rosendahl, C. & Kittler, H.
-- **PyTorch Team**: For the excellent deep learning framework
-- **Medical AI Community**: For advancing healthcare through technology
 
 ## 📞 **Contact**
 
